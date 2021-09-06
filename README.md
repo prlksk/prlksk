@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @prlksk
 - 👀 I’m interested in Coding
--  I am a Twitter Developer
+-  I'm a Twitter Developer
 - 🌱 I’m currently studying electrical engineering.
 - 💞️ I’m looking to collaborate with people who likes to develop apps.
 - 📫 How to reach me: my Linkedin Profile: www.linkedin.com/in/pirilsu-keskiner
